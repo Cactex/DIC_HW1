@@ -1,0 +1,17 @@
+module MedianFinder_3num (
+    input  [3:0] num1, 
+    input  [3:0] num2, 
+    input  [3:0] num3,  
+    output [3:0] median  
+);
+
+    wire [3:0] min1, max1;
+    wire [3:0] min2, max2;	
+
+    Comparator2 cmp1 (num1, num2, min1, max1);
+    Comparator2 cmp2 (max1, num3, min2, );
+    Comparator2 cmp3 (min1, min2, , median);
+
+
+endmodule
+

@@ -1,0 +1,36 @@
+D:/NCKU/ncku4-2/DIC/HW1/MedianFinder_5num.v {1 {vlog -work work -stats=none {D:\NCKU\ncku4-2\DIC\HW1\MedianFinder_5num.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MedianFinder_5num
+
+Top level modules:
+	MedianFinder_5num
+
+} {} {}} D:/NCKU/ncku4-2/DIC/HW1/Comparator2.v {1 {vlog -work work -stats=none {D:\NCKU\ncku4-2\DIC\HW1\Comparator2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Comparator2
+
+Top level modules:
+	Comparator2
+
+} {} {}} D:/NCKU/ncku4-2/DIC/HW1/testfixture.sv {1 {vlog -work work -sv -stats=none D:/NCKU/ncku4-2/DIC/HW1/testfixture.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testfixture
+
+Top level modules:
+	testfixture
+
+} {} {}} D:/NCKU/ncku4-2/DIC/HW1/MedianFinder_7num.v {1 {vlog -work work -stats=none {D:\NCKU\ncku4-2\DIC\HW1\MedianFinder_7num.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MedianFinder_7num
+
+Top level modules:
+	MedianFinder_7num
+
+} {} {}} D:/NCKU/ncku4-2/DIC/HW1/MedianFinder_3num.v {1 {vlog -work work -stats=none {D:\NCKU\ncku4-2\DIC\HW1\MedianFinder_3num.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MedianFinder_3num
+
+Top level modules:
+	MedianFinder_3num
+
+} {} {}}

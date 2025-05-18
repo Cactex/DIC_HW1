@@ -1,0 +1,132 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/WINDOWS/system32
+vComparator2
+Z0 !s110 1742045392
+!i10b 1
+!s100 h^zi8>G@G2kXbSl1RTJWi0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IG`4gQKcJZllYKLR22i_G^0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/NCKU/ncku4-2/DIC/HW1
+w1742043249
+8D:\NCKU\ncku4-2\DIC\HW1\Comparator2.v
+FD:\NCKU\ncku4-2\DIC\HW1\Comparator2.v
+!i122 199
+L0 1 11
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1742045392.000000
+!s107 D:\NCKU\ncku4-2\DIC\HW1\Comparator2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\NCKU\ncku4-2\DIC\HW1\Comparator2.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@comparator2
+vMedianFinder_3num
+R0
+!i10b 1
+!s100 `lYdQ3F75ddNV29Da4]l>2
+R1
+I9KLFncC@?BWQ@kj70Hj@B3
+R2
+R3
+w1742031471
+8D:\NCKU\ncku4-2\DIC\HW1\MedianFinder_3num.v
+FD:\NCKU\ncku4-2\DIC\HW1\MedianFinder_3num.v
+!i122 200
+L0 1 15
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:\NCKU\ncku4-2\DIC\HW1\MedianFinder_3num.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\NCKU\ncku4-2\DIC\HW1\MedianFinder_3num.v|
+!i113 1
+R6
+R7
+n@median@finder_3num
+vMedianFinder_5num
+R0
+!i10b 1
+!s100 BSnRIV]5X]iPgdKdVo[TS0
+R1
+IHGRdg1YK[7X9K?Q==;YG23
+R2
+R3
+w1742044610
+8D:\NCKU\ncku4-2\DIC\HW1\MedianFinder_5num.v
+FD:\NCKU\ncku4-2\DIC\HW1\MedianFinder_5num.v
+!i122 201
+L0 1 21
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:\NCKU\ncku4-2\DIC\HW1\MedianFinder_5num.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\NCKU\ncku4-2\DIC\HW1\MedianFinder_5num.v|
+!i113 1
+R6
+R7
+n@median@finder_5num
+vMedianFinder_7num
+Z8 !s110 1742045393
+!i10b 1
+!s100 c2Yc=oboNm5m_nb3BG_6=0
+R1
+I0jjOMPiVNeBkJWlPeBiHC0
+R2
+R3
+w1742045388
+8D:\NCKU\ncku4-2\DIC\HW1\MedianFinder_7num.v
+FD:\NCKU\ncku4-2\DIC\HW1\MedianFinder_7num.v
+!i122 202
+L0 1 23
+R4
+r1
+!s85 0
+31
+Z9 !s108 1742045393.000000
+!s107 D:\NCKU\ncku4-2\DIC\HW1\MedianFinder_7num.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\NCKU\ncku4-2\DIC\HW1\MedianFinder_7num.v|
+!i113 1
+R6
+R7
+n@median@finder_7num
+vtestfixture
+DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+R8
+!i10b 1
+!s100 4C3a>0^NgS@l5JaC>g[271
+R1
+I_ePml6LnBk;g[3X@BIW?;0
+R2
+S1
+R3
+w1741971180
+8D:/NCKU/ncku4-2/DIC/HW1/testfixture.sv
+FD:/NCKU/ncku4-2/DIC/HW1/testfixture.sv
+!i122 203
+L0 1 166
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/NCKU/ncku4-2/DIC/HW1/testfixture.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/NCKU/ncku4-2/DIC/HW1/testfixture.sv|
+!i113 1
+o-work work -sv
+R7
